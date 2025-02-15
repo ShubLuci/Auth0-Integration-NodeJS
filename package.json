@@ -1,0 +1,30 @@
+{
+    "name": "auth0-integration-nodejs",
+    "version": "1.0.0",
+    "description": "Auth0 Integration in NodeJS",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ShubLuci/Auth0-Integration-NodeJS.git"
+    },
+    "keywords": [
+        "NodeJS",
+        "Javascript",
+        "Express",
+        "Auth0"
+    ],
+    "author": "Shubham Yadav",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ShubLuci/Auth0-Integration-NodeJS/issues"
+    },
+    "homepage": "https://github.com/ShubLuci/Auth0-Integration-NodeJS#readme",
+    "dependencies": {
+        "axios": "^1.7.9",
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2"
+    }
+}
