@@ -24,6 +24,7 @@
     "homepage": "https://github.com/ShubLuci/Auth0-Integration-NodeJS#readme",
     "dependencies": {
         "axios": "^1.7.9",
+        "cookie-parser": "^1.4.7",
         "dotenv": "^16.4.7",
         "express": "^4.21.2"
     }
